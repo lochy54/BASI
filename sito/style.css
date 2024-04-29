@@ -1,0 +1,61 @@
+#c1{
+
+    position: absolute;
+    top: 18%;
+    min-width: 60%;
+    height: 67%;
+    overflow-y: scroll;
+    scrollbar-width: none;
+    -ms-overflow-style: none;  /* IE and Edge */
+    
+}
+
+
+#c1::-webkit-scrollbar {
+    display: none;
+  }
+
+
+body{
+
+    overflow: hidden;
+}
+
+#c2{
+    position: absolute;
+    top: 18%;
+    width: 20%;
+    height: 67%;
+    overflow-y: scroll;
+    scrollbar-width: none;
+    -ms-overflow-style: none;  /* IE and Edge */
+    
+    
+}
+#c2::-webkit-scrollbar {
+    display: none;
+  }
+
+#c3{
+    position: absolute;
+    top: 18%;
+    width: 40%;
+    left: 40%;
+    height: 67%;
+    overflow-y: scroll;
+    scrollbar-width: none;
+    -ms-overflow-style: none;  /* IE and Edge */
+}
+#c3::-webkit-scrollbar {
+    display: none;
+  }
+
+
+
+
+  #c4{
+    position: absolute;
+    top: 78%;
+    left: 60.8%;
+
+}
